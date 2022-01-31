@@ -1,6 +1,7 @@
 - name: DIKTAT_COMMON
   configuration:
     domainName: net.yewton
+    kotlinVersion: 1.5.31
 - name: MISSING_KDOC_TOP_LEVEL
   enabled: false
 - name: USE_DATA_CLASS
